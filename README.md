@@ -1,4 +1,4 @@
 # patikaHTMLBolumSonuCalismasi
 Patika HTML Bölüm Sonu Çalışması <3
 
-[https://app.patika.dev/bcu](Patika Profilim)
+[Patika Profilim](https://app.patika.dev/bcu)
